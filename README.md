@@ -6,3 +6,4 @@ Reforce seu conhecimento em Git com um desafio de projeto totalmente prático, o
 Primeira alteração local no arquivo
 
 #### Alteração local para testar merge
+#### Alteração no servidor para merge
